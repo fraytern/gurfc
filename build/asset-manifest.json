@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.642aaabb.css",
+    "main.js": "/static/js/main.616ac686.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Xmas7s.JPG": "/static/media/Xmas7s.3672bb22af34faef38ab.JPG",
+    "static/media/Xmas7s1.JPG": "/static/media/Xmas7s1.76eb3503ab8792706d95.JPG",
+    "static/media/bucknellgame.JPG": "/static/media/bucknellgame.a6e37b8fb955b3808a17.JPG",
+    "index.html": "/index.html",
+    "main.642aaabb.css.map": "/static/css/main.642aaabb.css.map",
+    "main.616ac686.js.map": "/static/js/main.616ac686.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.642aaabb.css",
+    "static/js/main.616ac686.js"
+  ]
+}

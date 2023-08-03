@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+:root{
+  --mainDark: #63666A;
+  --mainGrey: rgba(109,109,109);
+  --mainLightGrey: rgba(172,172,172);
+  --mainWhite: #fff;
+  --mainBlue: #007bff;
+
+}
+
+.about-section{
+  padding: 12px;
+  background-color: #BBBCBC;
+}
+
+.mb-3{
+  padding-left: 12px;
+}
